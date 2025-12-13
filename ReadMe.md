@@ -1,4 +1,4 @@
-# Photo Location Changer
+# Image coordinate changer
 ## Here is the image positioning modifier used by "JetCar", now we have v2.0.0
 ### The usage is very simple.
 
@@ -17,3 +17,4 @@
 
 4. **Exiting the Application**:
    - When you complete the modification, press "Click to Exit" or press "Esc" on the keyboard to exit.
+
