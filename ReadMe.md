@@ -21,18 +21,16 @@
 ## 🛠️ 環境需求
 
 - **Python 3.10+**
-- **CUDA Toolkit 12.x** (建議針對 RTX 40 系列顯卡進行優化)
+- **CUDA Toolkit 12.x**
+- **pytorch CUDA 12.8**
 - **必要套件**：
-  ```bash
-  pip install opencv-python numpy cvui PyQt5 torch torchvision
   ```
-🚀 快速啟動
+  pip install opencv-python numpy cvui PyQt5
+  ```
+## 🚀 啟動
 執行主程式：
 
-```Bash
-python Photo_Labeller_Pro.py
-```
-在初始畫面選擇 Source Folder（原始圖片）與 Target Folder（儲存位置）。
+先在初始畫面選擇 Source Folder（原始圖片）與 Target Folder（儲存位置）。
 
-點擊 START LABELLING 進入標註介面。
+點擊 START LABELLING 進入標註介面，開始使用。
 ---
